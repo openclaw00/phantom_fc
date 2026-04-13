@@ -79,9 +79,11 @@ body {
   letter-spacing: -0.02em;
 }
 
-.brand-crest {
-  font-size: 1.3rem;
-  color: var(--accent);
+.brand-logo {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  border-radius: 6px;
 }
 
 .site-header nav {
