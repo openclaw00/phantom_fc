@@ -638,3 +638,13 @@ p { margin-top: 0; }
   .footer-inner { flex-direction: column; text-align: center; }
   h1 { font-size: 3rem; }
 }
+
+.contact-locations {
+  font-size: 0.95rem;
+  color: var(--muted);
+  margin-top: 20px;
+}
+
+.contact-locations strong {
+  color: var(--text);
+}
