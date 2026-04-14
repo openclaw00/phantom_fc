@@ -6,8 +6,8 @@
   --text: #f0f0f0;
   --muted: #888;
   --line: rgba(255, 255, 255, 0.07);
-  --accent: #5c6bc0;
-  --accent-bright: #7986cb;
+  --accent: #4285F4;
+  --accent-bright: #6299F7;
   --green: #3ddc84;
   --radius-lg: 24px;
   --radius-md: 16px;
@@ -242,7 +242,7 @@ p { margin-top: 0; }
   padding: 4px 10px;
   border-radius: 6px;
   border: 1px solid var(--line);
-  background: rgba(100, 160, 255, 0.04);
+  background: rgba(66, 133, 244, 0.04);
   font-weight: 600;
 }
 
@@ -389,9 +389,9 @@ p { margin-top: 0; }
 }
 
 .team-badge.boys {
-  background: rgba(100, 160, 255, 0.1);
-  border: 1px solid rgba(100, 160, 255, 0.2);
-  color: #7ab0ff;
+  background: rgba(66, 133, 244, 0.1);
+  border: 1px solid rgba(66, 133, 244, 0.2);
+  color: #4285F4;
 }
 
 .team-badge.girls {
